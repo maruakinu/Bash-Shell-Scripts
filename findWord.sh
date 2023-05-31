@@ -17,7 +17,7 @@ do
             echo "$check" >> hot-folder/"$myfile"
         fi
     else 
-        echo "$myfile is Not A file.."
+        echo "$myfile is not A file.."
         echo " "
     fi
     echo " "
