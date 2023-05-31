@@ -13,7 +13,7 @@ do
             echo "$check"
             echo "FOUND"
             cp "$myfile" ./hot-folder
-            echo "*********" >> hot-folder/"$myfile"
+            echo "*******************" >> hot-folder/"$myfile"
             echo "$check" >> hot-folder/"$myfile"
         fi
     else 
